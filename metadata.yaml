@@ -1,4 +1,8 @@
 _repo: The-Red-Cow-and-Her-Friends_48129
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 48129-h/images/cover.jpg
 creator:
   author:
     agent_name: McArthur, Peter
@@ -7,6 +11,8 @@ creator:
     gutenberg_agent_id: '44631'
     url: http://www.gutenberg.org/2009/agents/44631
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48129#The-Red-Cow-and-Her-Friends
 gutenberg_issued: '2015-02-01'
 gutenberg_type: Text
 identifiers:
